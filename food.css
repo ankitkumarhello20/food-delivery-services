@@ -62,7 +62,7 @@
     content: "";
     position: absolute;
     top: 0px;
-    background-image: url('../spaghetti-1932466_1920.jpg');
+    background-image: url('./spaghetti-1932466_1920.jpg');
     
     height: 49vh;
     width: 100%;
@@ -134,7 +134,7 @@
     content: "";
     position: absolute;
     /* top: 0px; */
-    background-image: url('../spaghetti-1932466_1920.jpg');
+    background-image: url('./spaghetti-1932466_1920.jpg');
     
     height: 39vh;
     width: 100%;
@@ -157,7 +157,7 @@
 .contact::before{
     content: "";
     position: absolute;
-    background-image: url('../spaghetti-1932466_1920.jpg');
+    background-image: url('./spaghetti-1932466_1920.jpg');
     height: 34vh;
     width: 100%;
     z-index: -1;
